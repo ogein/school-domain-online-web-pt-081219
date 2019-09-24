@@ -6,7 +6,7 @@ class School
   
   def initialzie(name)
     @name = name 
-    roster
+    ROSTER
   end
   
   def roster 
